@@ -1,0 +1,46 @@
+JSON
+
+string : value
+number : value
+boolean: value
+object : value {}
+array  : value []
+
+{
+    "key" : "value"
+}
+
+{
+    "phone_number" : "value"//스네이크 케이스
+    "phoneNumber" : "value" //카멜 케이스
+}
+
+{
+    "phone_number" : "010-8828-5983",
+    "age" : 10,
+    "is_agree" : false,
+    "account": { "email" :"j0317@naver.com", "password":12345}
+}
+
+user 조회하는 경우
+{
+    "user_list": [
+        {"account" : "abcd", "password" : "1234"},
+        {"account" : "aaaa", "password" : "1111"},
+        {"account" : "bbbb", "password" : "2222"}
+    ]
+}
+
+
+{
+    "account" : "abcd",
+    "password" : "1234"
+}
+
+//요청을 어떻게 받아올 것인가?
+{
+    "account" : "",
+    "email" : "",
+    "password" : "",
+    "address" : ""
+}

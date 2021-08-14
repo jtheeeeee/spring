@@ -1,0 +1,16 @@
+{
+  "name":"taehee",
+  "age":25,
+  "cars":[
+    {
+      "name":"K5",
+      "carNumber":"11ka1111",
+      "type":"sedan"
+    },
+    {
+      "name":"Q5",
+      "carNumber":"2ka2222",
+      "type":"SUV"
+    }
+  ]
+}

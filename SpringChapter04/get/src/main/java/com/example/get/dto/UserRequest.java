@@ -1,4 +1,4 @@
-package com.example.hello.dto;
+package com.example.get.dto;
 
 
 public class UserRequest {

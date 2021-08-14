@@ -1,0 +1,5 @@
+https://mvnrepository.com/
+
+gradle을 사용하지 않으면 lib 폴더를 만들어서 jar 파일을 넣거나 해야하는데
+gradle이나 메이븐을 사용하게 되면 디펜던시를 추가만해줘도
+온라인에서 찾아서 추가해준다. 개꿀이당
